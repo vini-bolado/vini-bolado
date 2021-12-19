@@ -1,5 +1,4 @@
 ## Oi eu sou Vinicius Desenvolvedor Full-Stack e entusiasta da tecnologia!!!
-<br>
 
 <div align="display: inline">
   <a href="https://github.com/vini-bolado">
