@@ -1,4 +1,5 @@
 # Vinicius Evandro, also known as Bolado!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EF10&lines=vinicius+silva)](https://github.com/vini-bolado)
 I'm an 24yo <strong>flutter enthusiastic!</strong> and <strong>fullstack developer student</strong>.
 
 - I’m looking to collaborate on any new project. Really, I'm eager to learn and help!
