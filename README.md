@@ -14,8 +14,8 @@ I'm an 24yo <strong>flutter enthusiastic!</strong> and <strong>fullstack develop
 
 ## 🛠 Analytics & Languages
 <div align="center">
-  <img height=160px src="https://github-readme-stats.vercel.app/api?username=vini-bolado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"" alt="vini-bolado"/>
-  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-bolado&layout=compact&langs_count=16&theme=dracula"" alt="vini-bolado"/>
+  <img height=160px src="https://github-readme-stats.vercel.app/api?username=vini-bolado&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"" alt="vini-bolado"/>
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-bolado&layout=compact&langs_count=16&theme=great-gatsby"" alt="vini-bolado"/>
 </div>
 
 <h2 align="left">I'm learning<h2>
