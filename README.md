@@ -4,7 +4,6 @@
 
 I'm an 24yo <strong>flutter enthusiastic!</strong> and <strong>fullstack developer student</strong>.
 
-- I’m looking to collaborate on any new project. Really, I'm eager to learn and help!
 - You can find me on Discord (ViniciusEvandro#2188) or send me a email: vinnievandro@hotmail.com
       
 
