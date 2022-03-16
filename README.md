@@ -2,7 +2,7 @@
 
 # Vinicius Evandro, also known as Bolado!
 
-I'm an 24yo <strong>flutter enthusiastic!</strong> and <strong>fullstack developer student</strong>.
+I'm an 25yo <strong>flutter enthusiastic!</strong> and <strong>fullstack developer student</strong>.
 
 - You can find me on Discord (ViniciusEvandro#2188) or send me a email: vinnievandro@hotmail.com
       
