@@ -27,12 +27,13 @@
 <h2>📊 Github Stats</h2>
 <a href='https://github.com/vini-bolado/github-stats-transparent'></a>
 
-[![Chetans's github stats](https://github-readme-stats.vercel.app/api?username=vini-bolado&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vini-bolado&theme=neon-palenight)](https://git.io/streak-stats)
-<br>
-
-<a href="https://github.com/vini-bolado/github-readme-activity-graph"><img alt="Chetan;s graph" src="https://activity-graph.herokuapp.com/graph?username=vini-bolado&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vini-bolado/github-readme-activity-graph"><img alt="vini-bolado;s graph" src="https://activity-graph.herokuapp.com/graph?username=vini-bolado&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 
