@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning: JAVA, Angular, React, Spring
 
-- 👨‍💻 All of my projects are available at [vini-bolado.github.io/React-boladoo/](https://vini-bolado.github.io/React-boladoo/)
+- 👨‍💻 All of my projects are available at [vini-bolado](https://vini-bolado.github.io/React-boladoo/)
 
 - 📫 How to reach me **vinnievandro@hotmail.com**
 
