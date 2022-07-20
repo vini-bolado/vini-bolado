@@ -46,10 +46,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-evandro-957a3411b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-evandro-957a3411b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17590906/vinicius-evandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17590906/vinicius-evandro" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vinicius_evandro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vinicius_evandro/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc4hgaj0vjlghlnfrpdsi8wq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4hgaj0vjlghlnfrpdsi8wq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-evandro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-evandro-957a3411b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17590906/vinicius-evandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17590906/vinicius-evandro" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vinicius_evandro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vinicius_evandro/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4HGAj0vJlghLnFrpdsI8wQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4hgaj0vjlghlnfrpdsi8wq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
