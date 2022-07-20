@@ -27,9 +27,10 @@
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vinicius Evandro</h1>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vini-bolado&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
