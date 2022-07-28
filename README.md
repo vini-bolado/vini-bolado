@@ -28,10 +28,16 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
+
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vinicius Evandro</h1>
 
 
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/87451760/181647363-1145fc03-9571-46dc-8522-cf84574593fa.png"/>
+
+
+<img align="right" height="500em" src="https://user-images.githubusercontent.com/87451760/181652173-9d2d0104-85cb-4f6f-8735-95fdae1a033d.png"/>
+
+
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vini-bolado&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
