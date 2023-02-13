@@ -70,16 +70,7 @@
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vini-bolado&show_icons=true&theme=tokyonight" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-bolado&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-bolado&theme=tokyonight" />
 </p>
 
 <br>
-
-<a href="https://github.com/vini-bolado/github-readme-activity-graph"><img alt="vini-bolado;s graph" src="https://activity-graph.herokuapp.com/graph?username=vini-bolado&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
-
-
-
