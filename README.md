@@ -41,13 +41,13 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vini-bolado&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
-- 🌱 I’m currently learning: JAVA, Angular, React, Spring
+🌱 Atualmente estou aprendendo: Angular, .NET
 
-- 👨‍💻 All of my projects are available at [vini-bolado](https://vini-bolado.github.io/React-boladoo/)
+👨‍💻 Todos os meus projetos estão disponíveis em vini-bolado
 
-- 📫 How to reach me **vinnievandro@hotmail.com**
+📫 Como me encontrar: vinnievandro@hotmail.com
 
-- ⚡ Fun fact **Existe pitaya Amarela!**
+⚡ Curiosidade Existe pitaya Amarela!
 
 <br>
 
